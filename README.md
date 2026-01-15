@@ -22,11 +22,11 @@ No extra installations needed! ✅
 
 ## 📥 How to Use
 
-# Run the script
-AutoFile.py
+### Run the script
+`AutoFile.py`
 
-# Select the folder you want to organize
-# Choose quiet mode if desired
+### Select the folder you want to organize
+### Choose quiet mode if desired
 
 ---
 
