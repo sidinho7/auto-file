@@ -47,5 +47,5 @@ Nightly updates will focus on small, incremental improvements.
 # ⚠️ Notes
 
 - Organizes all files in the chosen folder — make sure you select the correct one! 📌
-
+- Please note that the **Original Version, 1.0,** has been **deprecated.** I might put it up on another repository, but it is far less advanced than 1.1 and future builds.
 - Fully local, no data is sent anywhere 🔒
